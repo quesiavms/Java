@@ -1,2 +1,2 @@
-# Java
-Adventures in Java
+# Repository
+Adventures in coding
