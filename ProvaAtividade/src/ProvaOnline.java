@@ -63,74 +63,74 @@ public static void prova(String [][] matriz1){
 public static void inicio(){
     String [][] matriz1 = new String [10][6];
 
-    matriz1[0][0] = "QUANTO É 1 + 1 ?";
-    matriz1[0][1] = "A) 2";
+    matriz1[0][0] = "Qual o valor de x na equação 2x +5 = 13 ?";
+    matriz1[0][1] = "A) 4";
     matriz1[0][2] = "B) 3";
-    matriz1[0][3] = "C) 4";
+    matriz1[0][3] = "C) 2";
     matriz1[0][4] = "D) 5";
     matriz1[0][5] = "A";
 
-    matriz1[1][0] = "QUANTO É 2 + 2 ?";
-    matriz1[1][1] = "A) 2";
-    matriz1[1][2] = "B) 3";
-    matriz1[1][3] = "C) 4";
-    matriz1[1][4] = "D) 5";
+    matriz1[1][0] = "Qual a area de um triangulo de com base 10cm e altura de 5cm ?";
+    matriz1[1][1] = "A) 35";
+    matriz1[1][2] = "B) 15";
+    matriz1[1][3] = "C) 25";
+    matriz1[1][4] = "D) 30";
     matriz1[1][5] = "C";
 
-    matriz1[2][0] = "QUANTO É 3 + 3 ?";
-    matriz1[2][1] = "A) 2";
-    matriz1[2][2] = "B) 3";
-    matriz1[2][3] = "C) 6";
-    matriz1[2][4] = "D) 5";
+    matriz1[2][0] = "Se um circulo tem raio de 7cm, qual seu diametro ?";
+    matriz1[2][1] = "A) 10";
+    matriz1[2][2] = "B) 9";
+    matriz1[2][3] = "C) 14";
+    matriz1[2][4] = "D) 49";
     matriz1[2][5] = "C";
 
-    matriz1[3][0] = "QUANTO É 4 + 4 ?";
+    matriz1[3][0] = "Qual o valor de x da equação 3x-4 = 5 ?";
     matriz1[3][1] = "A) 6";
-    matriz1[3][2] = "B) 8";
+    matriz1[3][2] = "B) 3";
     matriz1[3][3] = "C) 7";
-    matriz1[3][4] = "D) 11";
+    matriz1[3][4] = "D) 2";
     matriz1[3][5] = "B";
 
-    matriz1[4][0] = "QUANTO É 5 + 5 ?";
-    matriz1[4][1] = "A) 4";
-    matriz1[4][2] = "B) 9";
-    matriz1[4][3] = "C) 10";
-    matriz1[4][4] = "D) 5";
+    matriz1[4][0] = "Qual a soma dos angulos internos de um triangulo?";
+    matriz1[4][1] = "A) 270";
+    matriz1[4][2] = "B) 90";
+    matriz1[4][3] = "C) 180";
+    matriz1[4][4] = "D) 360";
     matriz1[4][5] = "C";
 
-    matriz1[5][0] = "QUANTO É 6 + 6 ?";
-    matriz1[5][1] = "A) 12";
-    matriz1[5][2] = "B) 13";
-    matriz1[5][3] = "C) 14";
-    matriz1[5][4] = "D) 15";
+    matriz1[5][0] = "Qual a solucão da equacao 3x - 9 = 0 ?";
+    matriz1[5][1] = "A) 3";
+    matriz1[5][2] = "B) 4";
+    matriz1[5][3] = "C) 5";
+    matriz1[5][4] = "D) 2";
     matriz1[5][5] = "A";
 
-    matriz1[6][0] = "QUANTO É 7 + 7 ?";
+    matriz1[6][0] = "Se f(x) = 2x+3, qual o valor de f(4) ?";
     matriz1[6][1] = "A) 12";
     matriz1[6][2] = "B) 13";
-    matriz1[6][3] = "C) 14";
-    matriz1[6][4] = "D) 15";
+    matriz1[6][3] = "C) 11";
+    matriz1[6][4] = "D) 10";
     matriz1[6][5] = "C";
 
-    matriz1[7][0] = "QUANTO É 8 + 8 ?";
-    matriz1[7][1] = "A) 12";
-    matriz1[7][2] = "B) 16";
-    matriz1[7][3] = "C) 14";
-    matriz1[7][4] = "D) 15";
+    matriz1[7][0] = "Qual a raiz quadrada de 64 ?";
+    matriz1[7][1] = "A) 9";
+    matriz1[7][2] = "B) 8";
+    matriz1[7][3] = "C) 7";
+    matriz1[7][4] = "D) 10";
     matriz1[7][5] = "B";
 
-    matriz1[8][0] = "QUANTO É 9 + 9 ?";
+    matriz1[8][0] = "Qual a media aritmetica dos numeros 4,8,12 e 16 ?";
     matriz1[8][1] = "A) 20";
     matriz1[8][2] = "B) 13";
-    matriz1[8][3] = "C) 18";
+    matriz1[8][3] = "C) 10";
     matriz1[8][4] = "D) 15";
     matriz1[8][5] = "C";
 
-    matriz1[9][0] = "QUANTO É 10 + 10 ?";
-    matriz1[9][1] = "A) 20";
-    matriz1[9][2] = "B) 30";
-    matriz1[9][3] = "C) 40";
-    matriz1[9][4] = "D) 50";
+    matriz1[9][0] = "Qual o proximo numero na sequencia: 2,5,8,11 ?";
+    matriz1[9][1] = "A) 14";
+    matriz1[9][2] = "B) 13";
+    matriz1[9][3] = "C) 10";
+    matriz1[9][4] = "D) 15";
     matriz1[9][5] = "A";
 
     Scanner entrada = new Scanner(System.in);
